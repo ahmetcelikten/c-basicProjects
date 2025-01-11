@@ -1,0 +1,16 @@
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\bin\Debug\net9.0-windows\cemberpi.exe
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\bin\Debug\net9.0-windows\cemberpi.deps.json
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\bin\Debug\net9.0-windows\cemberpi.runtimeconfig.json
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\bin\Debug\net9.0-windows\cemberpi.dll
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\bin\Debug\net9.0-windows\cemberpi.pdb
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\obj\Debug\net9.0-windows\cemberpi.Form1.resources
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\obj\Debug\net9.0-windows\cemberpi.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\obj\Debug\net9.0-windows\cemberpi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\obj\Debug\net9.0-windows\cemberpi.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\obj\Debug\net9.0-windows\cemberpi.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\obj\Debug\net9.0-windows\cemberpi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\obj\Debug\net9.0-windows\cemberpi.dll
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\obj\Debug\net9.0-windows\refint\cemberpi.dll
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\obj\Debug\net9.0-windows\cemberpi.pdb
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\obj\Debug\net9.0-windows\cemberpi.genruntimeconfig.cache
+C:\Users\ahmet\source\repos\cemberpi\cemberpi\obj\Debug\net9.0-windows\ref\cemberpi.dll
