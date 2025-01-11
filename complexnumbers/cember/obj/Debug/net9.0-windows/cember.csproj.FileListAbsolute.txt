@@ -1,0 +1,16 @@
+C:\Users\ahmet\source\repos\cember\cember\bin\Debug\net9.0-windows\cember.exe
+C:\Users\ahmet\source\repos\cember\cember\bin\Debug\net9.0-windows\cember.deps.json
+C:\Users\ahmet\source\repos\cember\cember\bin\Debug\net9.0-windows\cember.runtimeconfig.json
+C:\Users\ahmet\source\repos\cember\cember\bin\Debug\net9.0-windows\cember.dll
+C:\Users\ahmet\source\repos\cember\cember\bin\Debug\net9.0-windows\cember.pdb
+C:\Users\ahmet\source\repos\cember\cember\obj\Debug\net9.0-windows\cember.Form1.resources
+C:\Users\ahmet\source\repos\cember\cember\obj\Debug\net9.0-windows\cember.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\cember\cember\obj\Debug\net9.0-windows\cember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\cember\cember\obj\Debug\net9.0-windows\cember.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\cember\cember\obj\Debug\net9.0-windows\cember.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\cember\cember\obj\Debug\net9.0-windows\cember.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\cember\cember\obj\Debug\net9.0-windows\cember.dll
+C:\Users\ahmet\source\repos\cember\cember\obj\Debug\net9.0-windows\refint\cember.dll
+C:\Users\ahmet\source\repos\cember\cember\obj\Debug\net9.0-windows\cember.pdb
+C:\Users\ahmet\source\repos\cember\cember\obj\Debug\net9.0-windows\cember.genruntimeconfig.cache
+C:\Users\ahmet\source\repos\cember\cember\obj\Debug\net9.0-windows\ref\cember.dll
